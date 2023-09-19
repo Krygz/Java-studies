@@ -15,7 +15,7 @@ public class Main {
   JOptionPane.showMessageDialog(null , "You lives in "+country);
   
   
-  double height = Double.parseDouble(JOptionPane.showInputDialog("H2ow tall you are?"));
+  double height = Double.parseDouble(JOptionPane.showInputDialog("How tall you are?"));
   JOptionPane.showMessageDialog(null, "You height is "+height);
   
   
